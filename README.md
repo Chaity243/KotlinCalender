@@ -1,7 +1,7 @@
 # Kotlin Calendar
 <img alt="Logo" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="80" />
 
-I have made this project to learn the practice the kotlin language for Android Development purpose by following the series of blogs and sources.
+I have made this project the practice the kotlin language for Android Development by following the series of blogs and sources.
 
 A Kotlin calendar with events and a customizable widget.
 
