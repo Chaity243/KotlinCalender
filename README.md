@@ -5,7 +5,9 @@ I have made this project the practice the kotlin language for Android Developmen
 
 A Kotlin calendar with events and a customizable widget.
 
-An offline calendar without any other calendar integration. You can easily create recurring events and setup reminders, it can also display week numbers.
+
+
+An offline calendar without any other calendar integration. You can easily create recurring events and setup reminders, it can also display week numbers and has multi language support .
 
 Contains a resizable 4x4 widget where you can customize the color of the text, as well as the alpha and the color of the background.
 
